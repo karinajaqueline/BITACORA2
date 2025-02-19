@@ -3,7 +3,7 @@
 #include "time.h"
 
 const char* ssid     = "Karina iPhone";
-const char* password = "PapuAxel";
+const char* password = "karijk";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = -18000; 
