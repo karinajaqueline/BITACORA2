@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include "time.h"
 
-const char* ssid     = "Axel’s iPhone";
+const char* ssid     = "Karina iPhone";
 const char* password = "PapuAxel";
 
 const char* ntpServer = "pool.ntp.org";
